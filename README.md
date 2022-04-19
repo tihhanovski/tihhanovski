@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on my opensource smart bus stop display
 - 📫  ilja.tihhanovski@gmail.com
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tihhanovski)](https://git.io/streak-stats)
+
+
 # Projects #
   ## Profit. ERP for small and medium business ## 
   https://intellisoft.ee/profit/ (in Estonian)
