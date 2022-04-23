@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on my opensource smart bus stop display
 - 📫  ilja.tihhanovski@gmail.com
 
+# Technologies #
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tihhanovski)](https://git.io/streak-stats)
 
 
