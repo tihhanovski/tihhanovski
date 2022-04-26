@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my opensource smart bus stop display
 - 📫  ilja.tihhanovski@gmail.com
 
-# Technologies #
+# Tech stack #
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
