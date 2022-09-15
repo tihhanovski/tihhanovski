@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tihhanovski
 - 👀 I’m interested in new projects
-- 🌱 I’m currently learning cyberphysical systems in TalTech
+- 🌱 I’m currently studying cyberphysical systems in TalTech
 - 💞️ I’m looking to collaborate on my opensource smart bus stop display
 - 📫  ilja.tihhanovski@gmail.com
 
