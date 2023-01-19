@@ -45,7 +45,7 @@
   
   ## Tabloo, open-source bus stop display ##
   https://github.com/tihhanovski/tabloo/ (in Estonian)
-  C++, PHP, MySQL, ESP32, Arduino, LoRa
+  C++, PHP, MySQL, ESP32, Arduino, PlatformIO
 
 # Old projects #
   ## Precast concrete production ERP for Muuga Betoonelement ##
