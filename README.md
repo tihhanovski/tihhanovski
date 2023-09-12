@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @tihhanovski
-- 👀 I’m interested in new projects
-- 🌱 I’m currently studying cyberphysical systems in TalTech
-- 💞️ I’m looking to collaborate on my opensource smart bus stop display
-- 📫  ilja.tihhanovski@gmail.com
-
-# Tech stack #
+- 👋
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -27,12 +21,12 @@
 
 
 # Projects #
-  ## Profit. ERP for small and medium business ## 
+  ## Profit. ERP for small and medium enterprises ## 
   https://intellisoft.ee/profit/ (in Estonian)
 
-  Firebird SQL, Delphi, 
+  Firebird, Delphi
   
-  ## Profit API. Distributed Rest API infrastructure for Profit ERP users ##
+  ## Profit API. Distributed API infrastructure for Profit ERP users ##
   https://apidev.intellisoft.ee/help.php
   
   Firebird, PHP
@@ -42,10 +36,12 @@
   
   ## Profit precast ##
   PHP, MySQL, JavaScript, jQuery, P2 framework
-  
+
+<!---  
   ## Tabloo, open-source bus stop display ##
   https://github.com/tihhanovski/tabloo/ (in Estonian)
   C++, PHP, MySQL, ESP32, Arduino, PlatformIO
+--->
 
 # Old projects #
   ## Precast concrete production ERP for Muuga Betoonelement ##
